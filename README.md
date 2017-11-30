@@ -1,6 +1,3 @@
-# Google Drive Integrity
-A Google Apps Script for centrally managing a Google Drive directory structure.  
-
 ## What does this do?
 Essentially this script can do 2 things:
 * 1: Transfer an entire directory (including any and all files and subfolders no matter how deep) to an admin account for safe keeping.  The owners of a resource will still retain edit access, likewise other users with their existing access.
